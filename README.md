@@ -1,5 +1,5 @@
 # SimplyBankApp
-Проект для практики работы с массивами + датой и временем   
+Проект для практики работы с **массивами + датой и временем**   
 [Deploy](https://vishnevetskayasasha.github.io/SimplyBankApp/Simply%20Bank/)
 
 ## Аккаунты (логин - пароль)
